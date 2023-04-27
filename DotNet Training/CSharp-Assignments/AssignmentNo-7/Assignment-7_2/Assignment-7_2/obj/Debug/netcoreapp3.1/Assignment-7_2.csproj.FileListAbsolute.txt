@@ -1,0 +1,14 @@
+C:\Users\AAHIWALE\source\repos\Assignment-7_2\Assignment-7_2\bin\Debug\netcoreapp3.1\Assignment-7_2.exe
+C:\Users\AAHIWALE\source\repos\Assignment-7_2\Assignment-7_2\bin\Debug\netcoreapp3.1\Assignment-7_2.deps.json
+C:\Users\AAHIWALE\source\repos\Assignment-7_2\Assignment-7_2\bin\Debug\netcoreapp3.1\Assignment-7_2.runtimeconfig.json
+C:\Users\AAHIWALE\source\repos\Assignment-7_2\Assignment-7_2\bin\Debug\netcoreapp3.1\Assignment-7_2.runtimeconfig.dev.json
+C:\Users\AAHIWALE\source\repos\Assignment-7_2\Assignment-7_2\bin\Debug\netcoreapp3.1\Assignment-7_2.dll
+C:\Users\AAHIWALE\source\repos\Assignment-7_2\Assignment-7_2\bin\Debug\netcoreapp3.1\Assignment-7_2.pdb
+C:\Users\AAHIWALE\source\repos\Assignment-7_2\Assignment-7_2\obj\Debug\netcoreapp3.1\Assignment-7_2.csproj.AssemblyReference.cache
+C:\Users\AAHIWALE\source\repos\Assignment-7_2\Assignment-7_2\obj\Debug\netcoreapp3.1\Assignment-7_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AAHIWALE\source\repos\Assignment-7_2\Assignment-7_2\obj\Debug\netcoreapp3.1\Assignment-7_2.AssemblyInfoInputs.cache
+C:\Users\AAHIWALE\source\repos\Assignment-7_2\Assignment-7_2\obj\Debug\netcoreapp3.1\Assignment-7_2.AssemblyInfo.cs
+C:\Users\AAHIWALE\source\repos\Assignment-7_2\Assignment-7_2\obj\Debug\netcoreapp3.1\Assignment-7_2.csproj.CoreCompileInputs.cache
+C:\Users\AAHIWALE\source\repos\Assignment-7_2\Assignment-7_2\obj\Debug\netcoreapp3.1\Assignment-7_2.dll
+C:\Users\AAHIWALE\source\repos\Assignment-7_2\Assignment-7_2\obj\Debug\netcoreapp3.1\Assignment-7_2.pdb
+C:\Users\AAHIWALE\source\repos\Assignment-7_2\Assignment-7_2\obj\Debug\netcoreapp3.1\Assignment-7_2.genruntimeconfig.cache

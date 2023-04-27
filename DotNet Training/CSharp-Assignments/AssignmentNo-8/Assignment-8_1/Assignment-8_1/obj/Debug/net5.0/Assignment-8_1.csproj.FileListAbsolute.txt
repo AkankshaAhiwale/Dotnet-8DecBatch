@@ -1,0 +1,16 @@
+C:\Users\AAHIWALE\source\repos\Assignment-8_1\Assignment-8_1\bin\Debug\net5.0\Assignment-8_1.exe
+C:\Users\AAHIWALE\source\repos\Assignment-8_1\Assignment-8_1\bin\Debug\net5.0\Assignment-8_1.deps.json
+C:\Users\AAHIWALE\source\repos\Assignment-8_1\Assignment-8_1\bin\Debug\net5.0\Assignment-8_1.runtimeconfig.json
+C:\Users\AAHIWALE\source\repos\Assignment-8_1\Assignment-8_1\bin\Debug\net5.0\Assignment-8_1.runtimeconfig.dev.json
+C:\Users\AAHIWALE\source\repos\Assignment-8_1\Assignment-8_1\bin\Debug\net5.0\Assignment-8_1.dll
+C:\Users\AAHIWALE\source\repos\Assignment-8_1\Assignment-8_1\bin\Debug\net5.0\ref\Assignment-8_1.dll
+C:\Users\AAHIWALE\source\repos\Assignment-8_1\Assignment-8_1\bin\Debug\net5.0\Assignment-8_1.pdb
+C:\Users\AAHIWALE\source\repos\Assignment-8_1\Assignment-8_1\obj\Debug\net5.0\Assignment-8_1.csproj.AssemblyReference.cache
+C:\Users\AAHIWALE\source\repos\Assignment-8_1\Assignment-8_1\obj\Debug\net5.0\Assignment-8_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AAHIWALE\source\repos\Assignment-8_1\Assignment-8_1\obj\Debug\net5.0\Assignment-8_1.AssemblyInfoInputs.cache
+C:\Users\AAHIWALE\source\repos\Assignment-8_1\Assignment-8_1\obj\Debug\net5.0\Assignment-8_1.AssemblyInfo.cs
+C:\Users\AAHIWALE\source\repos\Assignment-8_1\Assignment-8_1\obj\Debug\net5.0\Assignment-8_1.csproj.CoreCompileInputs.cache
+C:\Users\AAHIWALE\source\repos\Assignment-8_1\Assignment-8_1\obj\Debug\net5.0\Assignment-8_1.dll
+C:\Users\AAHIWALE\source\repos\Assignment-8_1\Assignment-8_1\obj\Debug\net5.0\ref\Assignment-8_1.dll
+C:\Users\AAHIWALE\source\repos\Assignment-8_1\Assignment-8_1\obj\Debug\net5.0\Assignment-8_1.pdb
+C:\Users\AAHIWALE\source\repos\Assignment-8_1\Assignment-8_1\obj\Debug\net5.0\Assignment-8_1.genruntimeconfig.cache
